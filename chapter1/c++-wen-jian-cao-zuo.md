@@ -61,6 +61,15 @@ open (filename, mode)
 	myfile.open("example.bin", ios::out | ios::app | ios::binary);
 ```
 其中，
+| 参数 | 含义 |
+| :------: | :------: |
+| ios::in | 用于读取的打开操作 |
+| ios::out | 用于写入的打开操作 |
+| ios::binary | 用二进制方式打开 |
+| ios::ate | 设置初始位置为文件尾 |
+| ios::app | 所有写入操作在文件尾部执行 |
+| ios::trunc | 文件存在则删除，不存在则新建 |
+
 
 
 
