@@ -31,3 +31,21 @@ void WriteToFile()
 ```
 
 ### 文本文件的读取
+``` bash
+void ReadFile()
+{
+	ifstream file;
+	file.open("filename.txt");
+	if (file.is_open())
+	{
+		string line = "";
+		getline(file, line);		//需要使用 <string> 的头文件
+		cout << line << endl;
+		file.close();				//关闭文件流
+	}
+	else
+	{
+		cout << "Fail to open this file.";
+	}
+}
+```
