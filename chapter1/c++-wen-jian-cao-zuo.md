@@ -16,6 +16,7 @@ void WriteToFile()
 {
 	ofstream file;
 	file.open("filename.txt");
+	//ofstream file("filename.txt");	//该写法上述等效
 	if (file.is_open())
 	{
 		file << "I am dongmodao." << endl;
@@ -49,3 +50,6 @@ void ReadFile()
 	}
 }
 ```
+
+### 二进制文件的读取
+
