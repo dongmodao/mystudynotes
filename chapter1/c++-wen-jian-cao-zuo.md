@@ -61,6 +61,7 @@ open (filename, mode)
 	myfile.open("example.bin", ios::out | ios::app | ios::binary);
 ```
 其中，
+
 | 参数 | 含义 |
 | :------: | :------: |
 | ios::in | 用于读取的打开操作 |
@@ -70,12 +71,4 @@ open (filename, mode)
 | ios::app | 所有写入操作在文件尾部执行 |
 | ios::trunc | 文件存在则删除，不存在则新建 |
 
-
-
-
-
-
-
-
-
-
+基本这些就够了，一般也不会用到更难的情况，如果有，自己翻 [Cplusplus](http://www.cplusplus.com/reference/cstdio/FILE/?kw=FILE) 再重新修行一下吧。
