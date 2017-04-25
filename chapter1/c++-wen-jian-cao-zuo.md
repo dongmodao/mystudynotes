@@ -14,7 +14,7 @@ C++ 提供了以下几个执行文件输入输出操作的类：
 ``` bash
 void WriteToFile()
 {
-	ofstream file;
+	ofstream file;				//写入使用 ofstream
 	file.open("filename.txt");
 	//ofstream file("filename.txt");	//该写法上述等效
 	if (file.is_open())
@@ -35,7 +35,7 @@ void WriteToFile()
 ``` bash
 void ReadFile()
 {
-	ifstream file;
+	ifstream file;				// 读取使用 ifstream
 	file.open("filename.txt");
 	if (file.is_open())
 	{
@@ -54,7 +54,13 @@ void ReadFile()
 ### 二进制方式读取文件的
 打开方式一般是默认为文本方式打开，但是如果想用二进制的方式读写文件，也是可以的。
 
-
+open 方法有提供两个参数的重载，除了文件名之外，还可以接受打开的方式。如下：
+open (filename, mode)
+``` bash
+	ofstream myfile;
+	myfile.open("example.bin", ios::out | ios::app | ios::binary);
+```
+其中，
 
 
 
