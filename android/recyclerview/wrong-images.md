@@ -14,3 +14,4 @@ Note that this will only work if View.setTag(Object) is not called on this view 
 */
 Glide.clear(holder.imageView);
 ```
+3. 我认为上述方法都不是最优的解决方式，等待补充。
