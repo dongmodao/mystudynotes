@@ -8,5 +8,7 @@
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
 * Java
 * C\#
-* Python
+* [Python](python.md)
+* [随笔](sui-bi.md)
+  * [能力越大，责任越大](sui-bi/neng-li-yue-da-ff0c-ze-ren-yue-da.md)
 
