@@ -8,6 +8,7 @@
     * [OnClick](android/clickevent/onclick.md)
 * [C++](chapter1.md)
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
+  * [类型转换](chapter1/lei-xing-zhuan-huan.md)
 * Java
 * C\#
 * [Python](python.md)

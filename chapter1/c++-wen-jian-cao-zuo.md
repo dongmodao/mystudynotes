@@ -78,3 +78,6 @@ open (filename, mode)
 | ios::trunc | 文件存在则删除，不存在则新建 |
 
 基本这些就够了，一般也不会用到更难的情况，如果有，自己翻 [Cplusplus](http://www.cplusplus.com/reference/cstdio/FILE/?kw=FILE) 再重新修行一下吧。
+
+
+## **注意：文件的相对位置应该在 code 对应的文件夹下**
