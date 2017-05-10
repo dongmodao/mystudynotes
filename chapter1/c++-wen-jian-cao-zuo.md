@@ -9,6 +9,12 @@ C++ 提供了以下几个执行文件输入输出操作的类：
 + fstream: 用于读写文件流的类
 
 废话我也就不多说了，毕竟这个是写个自己看的，我觉得写的清楚了就好。
+``` bash
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <stdlib.h>
+```
 
 ### 文本文件的写入
 ``` bash
