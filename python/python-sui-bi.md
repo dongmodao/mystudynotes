@@ -6,8 +6,9 @@ f = open("test.txt", "w")
 # 打开方式：w, r, a, 
 f.readline()
 f.close()
+
 # 2
-with open("test.txt","r") as f:
+with open("test.txt","w") as f:
 	f.readline()
 	...
 	f.close()
