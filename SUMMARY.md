@@ -13,6 +13,7 @@
 * Java
 * C\#
 * [Python](python.md)
+  * [Python 随笔](python/python-sui-bi.md)
 * [随笔](sui-bi.md)
   * [能力越大，责任越大](sui-bi/neng-li-yue-da-ff0c-ze-ren-yue-da.md)
   * [什么在促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
