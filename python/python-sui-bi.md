@@ -1,4 +1,4 @@
-文件操作
+### 文件操作
 
 ``` python
 # 1
@@ -14,7 +14,8 @@ with open("test.txt","w") as f:
 	f.close()
 ```
 
-判断文件是否存在
+### 判断文件是否存在
+
 ``` python
 import os
 
@@ -24,4 +25,5 @@ if os.path.isfile("test.txt"):
 ```
 
 
-and, or, not 的使用
+#### and, or, not 的使用
+在 python 中，不使用 &&, ||, ! 符号，而是使用 and, or, not 
