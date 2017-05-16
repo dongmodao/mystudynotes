@@ -32,5 +32,5 @@ if os.path.isfile("test.txt"):
 ```
 
 
-#### and, or, not 的使用
+#### 逻辑运算符 and, or, not 的使用
 在 python 中，不使用 &&, ||, ! 符号，而是使用 and, or, not 
