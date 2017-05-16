@@ -10,7 +10,9 @@
 * [C++](chapter1.md)
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
   * [类型转换](chapter1/lei-xing-zhuan-huan.md)
-* Java
+  * [数组](chapter1/shu-zu.md)
+    * [作为函数参数](chapter1/shu-zu/zuo-wei-han-shu-can-shu.md)
+* [Java](java.md)
 * C\#
 * [Python](python.md)
   * [Python 随笔](python/python-sui-bi.md)
