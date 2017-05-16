@@ -12,6 +12,7 @@
   * [类型转换](chapter1/lei-xing-zhuan-huan.md)
   * [数组](chapter1/shu-zu.md)
     * [作为函数参数](chapter1/shu-zu/zuo-wei-han-shu-can-shu.md)
+  * [指针](chapter1/zhi-zhen.md)
 * [Java](java.md)
 * C\#
 * [Python](python.md)
