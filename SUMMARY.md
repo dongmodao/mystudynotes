@@ -13,6 +13,8 @@
   * [数组](chapter1/shu-zu.md)
     * [作为函数参数](chapter1/shu-zu/zuo-wei-han-shu-can-shu.md)
   * [指针](chapter1/zhi-zhen.md)
+    * [变量的指针和指针变量](chapter1/zhi-zhen/bian-liang-de-zhi-zhen-he-zhi-zhen-bian-liang.md)
+    * [指针作为函数参数](chapter1/zhi-zhen/zhi-zhen-zuo-wei-han-shu-can-shu.md)
 * [Java](java.md)
 * C\#
 * [Python](python.md)
