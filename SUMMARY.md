@@ -18,7 +18,7 @@
     * [数组的指针](chapter1/zhi-zhen/shu-zu-de-zhi-zhen.md)
     * [动态分配内存](chapter1/zhi-zhen/dong-tai-fen-pei-nei-cun.md)
 * [Java](java.md)
-* C\#
+* [C\#](c.md)
 * [Python](python.md)
   * [Python 随笔](python/python-sui-bi.md)
   * [单元测试](python/dan-yuan-ce-shi.md)
