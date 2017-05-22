@@ -18,6 +18,8 @@
     * [数组的指针](chapter1/zhi-zhen/shu-zu-de-zhi-zhen.md)
     * [动态分配内存](chapter1/zhi-zhen/dong-tai-fen-pei-nei-cun.md)
   * [类](chapter1/lei.md)
+    * [类的构造函数和析构函数](chapter1/lei/lei-de-gou-zao-han-shu-he-xi-gou-han-shu.md)
+    * [类的指针调用](chapter1/lei/lei-de-zhi-zhen-diao-yong.md)
 * [Java](java.md)
 * [C\#](c.md)
 * [Python](python.md)
