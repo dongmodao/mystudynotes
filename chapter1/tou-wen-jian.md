@@ -23,6 +23,7 @@ public:
 };
 #endif				//结束 ifndef
 ```
+
 **cpp 文件： Point.cpp**
 ``` cpp
 #include "testcode.h"
@@ -46,6 +47,7 @@ void Point::Print()
 	cout << "x = " << x << "\ty = " << y << endl;
 }
 ```
+
 **运行 main 文件内容**
 ``` cpp
 #include<iostream>
