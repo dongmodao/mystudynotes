@@ -1,8 +1,13 @@
 ## C++ 类型转换
 
 字符串转数值型
-**string to double: **
-> atof(str.c_str())
+**string to double: **``int a = atof(str.c_str())``
+
+``` cpp
+string temp = "1000";
+int a = atof(temp.c_str())
+```
+
 
 数值型转字符串
 **double/int to string**
