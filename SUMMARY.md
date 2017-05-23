@@ -22,6 +22,8 @@
     * [类的指针调用](chapter1/lei/lei-de-zhi-zhen-diao-yong.md)
     * [多态性与虚函数](chapter1/lei/duo-tai-xing-yu-xu-han-shu.md)
   * [头文件](chapter1/tou-wen-jian.md)
+  * [容器](chapter1/rong-qi.md)
+    * [vector](chapter1/rong-qi/vector.md)
 * [Java](java.md)
 * [C\#](c.md)
 * [Python](python.md)
