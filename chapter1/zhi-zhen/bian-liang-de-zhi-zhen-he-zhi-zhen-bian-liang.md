@@ -16,7 +16,7 @@ void main(void)
 {
 	int a, b;
 	int *p1, *p2;
-	p1 = &a; p2 = &b;
+	p1 = &a; p2 = &b;				//取地址
 	*p1 = 10; *p2 = 100;					//通过指针修改变量的值
 	cout << a << '\t' << b << endl;
 	cout << *p1 << '\t' << *p2 << endl;		//指针变量的引用
