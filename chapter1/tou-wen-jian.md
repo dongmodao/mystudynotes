@@ -5,6 +5,7 @@
 3. 大程序的结构更清晰
 
 如何编写头文件？示例如下：
+
 **头文件： testcode.h**
 ``` cpp
 #ifndef POINT_H		//用于判断是否已经调用了该头文件，避免重复调用错误  #define 保护
@@ -23,8 +24,9 @@ public:
 };
 #endif				//结束 ifndef
 ```
-使用 #ifndef 来包裹要声明的部分，防止多次引入。一般声明头文件 define 格式如下
-> <PROJECT>_<PATH>_<FILE>_H_ .
+
+使用 #ifndef 来包裹要声明的部分，防止多次引入。一般声明头文件 define 格式为:``<PROJECT>_<PATH>_<FILE>_H_``
+
 
 **cpp 文件： Point.cpp**
 ``` cpp
@@ -49,6 +51,7 @@ void Point::Print()
 	cout << "x = " << x << "\ty = " << y << endl;
 }
 ```
+
 需要引入头文件，以及其他实现所需要的库文件和命名空间。
 
 **运行 main 文件内容**
@@ -63,4 +66,5 @@ void main(void)
 	system("pause");
 }
 ```
+
 引入头文件即可，无须再引入 .cpp 源文件。
