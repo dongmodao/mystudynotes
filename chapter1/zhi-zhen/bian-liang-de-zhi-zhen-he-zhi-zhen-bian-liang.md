@@ -3,7 +3,7 @@
 变量的指针是地址
 指针变量是保存地址的变量，只保存地址，不接受其他类型
 '*' 在语句中表示指向， '&' 表示取地址
-``` c++
+``` cpp
 int i;
 int j = 0;
 int *i_point = &i;	//取 i 的地址给 i_point 指针变量
@@ -11,7 +11,7 @@ int *i_point = &i;	//取 i 的地址给 i_point 指针变量
 i_point = &j;		//指针变量的赋值，指针变量保存 j 的地址
 ```
 ## 指针变量的引用
-``` c++
+``` cpp
 void main(void)
 {
 	int a, b;
@@ -26,7 +26,7 @@ void main(void)
 
 ## 优先级
 ++, - -,  * 优先级相同，都是右结合性。
-``` c++
+``` cpp
 #include<iostream>
 using namespace std;
 

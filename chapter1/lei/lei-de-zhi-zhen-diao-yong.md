@@ -1,6 +1,6 @@
 ## 利用类的指针引用对象
 使用箭头符号 -> 进行引用。
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 class A{
@@ -26,7 +26,7 @@ void main(void)
 ## 返回私有成员的引用!
 返回引用类型的成员函数(可以返回私有数据成员的引用)
 可以对被返回的指针进行操作，达到更改对象的目的
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 class A{

@@ -2,7 +2,7 @@
 
 指针变量作为函数参数与变量本身作函数参数不同，变量作函数参数传递的是具体值，而指针作函数参数传递的是内存的地址。
 
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 void change1(int *p1, int *p2)		//传入指针变量的指向，*p 指向了内容 int
@@ -18,8 +18,6 @@ void change2(int x, int y)		//值传递，不会影响传入的变量本身的�
     x=y;
     y=t;
 }
-
-
 void main(void)
 {
 	int  *point1, *point2, a, b;

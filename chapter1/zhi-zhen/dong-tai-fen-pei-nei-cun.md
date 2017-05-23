@@ -1,6 +1,6 @@
 ## 动态分配内存
 在 C++ 中，使用如下
-``` C++
+``` cpp
 int n = 10;
 int a[n];
 ```
@@ -13,7 +13,7 @@ int a[n];
 
 ## 使用 delete 来回收动态内存空间
 对于使用 new 来开辟空间的指针变量，为了避免造成内存丢失，需要在变量最后一次使用后使用 delete 来回收这些空间。如下：
-``` C++
+``` cpp
 int *p, n;
 cin >> n;
 p = new int[n]
@@ -22,7 +22,7 @@ delete p;
 ```
 但是，中间如果 p 被重新赋值，那么就回收不了开辟的空间了，只能等待重新开机自动回收，而且程序会报错。
 
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 void main(void)

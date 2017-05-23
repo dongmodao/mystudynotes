@@ -1,7 +1,7 @@
 ## 构造函数
 构造函数是在创建对象时，使用给定的值来将对象初始化。
 可以带参数、可以重载。
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 class A{
@@ -30,7 +30,7 @@ void main(void)
 不带参数，无返回值，无函数类型。只有一个，不能重载。
 > 格式：ClassName:~ClassName(){}
 
-``` C++
+``` cpp
 class A{
 	float  x, y;
 public:
@@ -46,7 +46,7 @@ public:
 
 ## 使用 new 和 delete
 可以使用 new 运算符来动态地建立对象。建立时要自动调用构造函数，以便完成初始化对象的数据成员。最后返回这个动态对象的起始地址。用 new 运算符产生的动态对象，在不再使用这种对象时，必须用 delete 运算符来释放对象所占用的存储空间。
-``` C++
+``` cpp
 #include<iostream>
 using namespace std;
 class  A{

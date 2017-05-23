@@ -9,7 +9,7 @@ C++ 提供了以下几个执行文件输入输出操作的类：
 + fstream: 用于读写文件流的类
 
 废话我也就不多说了，毕竟这个是写个自己看的，我觉得写的清楚了就好。
-``` bash
+``` cpp
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -17,7 +17,7 @@ C++ 提供了以下几个执行文件输入输出操作的类：
 ```
 
 ### 文本文件的写入
-``` bash
+``` cpp
 void WriteToFile()
 {
 	ofstream file;				//写入使用 ofstream
@@ -38,7 +38,7 @@ void WriteToFile()
 ```
 
 ### 文本文件的读取
-``` bash
+``` cpp
 void ReadFile()
 {
 	ifstream file;				// 读取使用 ifstream
@@ -62,7 +62,7 @@ void ReadFile()
 
 open 方法有提供两个参数的重载，除了文件名之外，还可以接受打开的方式。如下：
 open (filename, mode)
-``` bash
+``` cpp
 	ofstream myfile;
 	myfile.open("example.bin", ios::out | ios::app | ios::binary);
 ```
