@@ -25,6 +25,7 @@
   * [头文件](chapter1/tou-wen-jian.md)
   * [容器](chapter1/rong-qi.md)
     * [vector](chapter1/rong-qi/vector.md)
+  * [曾经遇到的坑](chapter1/ceng-jing-yu-dao-de-keng.md)
 * [Java](java.md)
 * [C\#](c.md)
 * [Python](python.md)
