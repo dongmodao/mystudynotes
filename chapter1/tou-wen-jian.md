@@ -8,8 +8,8 @@
 
 **头文件： testcode.h**
 ``` cpp
-#ifndef POINT_H		//用于判断是否已经调用了该头文件，避免重复调用错误  #define 保护
-#define POINT_H
+#ifndef POINT_H	_	//用于判断是否已经调用了该头文件，避免重复调用错误  #define 保护
+#define POINT_H_
 
 class Point
 {
