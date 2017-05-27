@@ -16,3 +16,7 @@ void myFunction(int a, int b)
 
 **个人理解**
 委托相当于获得了一个函数的指针。可以在本类中调用其他类的函数，只要这个委托可以在其他类中注册；同时，在实现上，这个所谓的其他类的参数也可以被使用，这也是委托和事件的方便之处。
+也就是说该类的持有者可以实现该类的事件，并在事件中使用持有者类的对象，在该类中调用该事件则会执行持有者类中的事件。
+![](/assets/Csharp_delegate_event.png)
+如上图，在 Fields 类中定义了委托 FieldDeleteHandle(object sender, Field field) 以及事件 FieldDeleteHandle FieldDelete，在持有者 Dataset 类中注册并实现了该事件，其中调用的 DataSet 类的其他成员，这些成员并不是 Fields 类中的。
+所以，如果某个类改变后要对另外一个类有某种影响，则可以通过事件已经两个对象的公共持有者进行处理，子类通知持有者类，由持有者类对另外的子类进行处理。
