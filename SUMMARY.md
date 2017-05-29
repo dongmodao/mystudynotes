@@ -28,7 +28,7 @@
     * map
   * [曾经遇到的坑](chapter1/ceng-jing-yu-dao-de-keng.md)
 * [3. Java](java.md)
-  * 回调机制
+  * [回调机制](java/hui-diao-ji-zhi.md)
 * [4. C\#](c.md)
   * [委托与时间](c/wei-tuo-yu-shi-jian.md)
 * [5. Python](python.md)
