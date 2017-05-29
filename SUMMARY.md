@@ -36,6 +36,6 @@
   * [单元测试](python/dan-yuan-ce-shi.md)
 * [6. 随笔](sui-bi.md)
   * [能力越大，责任越大](sui-bi/neng-li-yue-da-ff0c-ze-ren-yue-da.md)
-  * [什么在促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
+  * [什么促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
   * [年轻、年老与记忆](sui-bi/nian-qing-3001-nian-lao-yu-ji-yi.md)
 
