@@ -71,3 +71,6 @@ public static byte[] Read2Buffer(Stream stream, int BufferLen)
             return outStr;
         }
 ```
+
+
+同上，代码等待以后进行分析讲解，现在时间紧迫，暂且如此。
