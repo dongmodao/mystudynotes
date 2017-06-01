@@ -1,7 +1,7 @@
 ## 不定长网络流文件的读取
 
-重点是在于设置 stream.readtimeout 属性，如果不设置，这个时间会很长，程序会一直在等待数据的读取，而造成迟迟得不到结果。
-代码的分析暂时就不进行了，这是我在网页上找了很多版本中的一个的个人修改版，否则还是会在 readtimeout 上出现问。
+重点是在于设置 stream.ReadTimeout 属性，如果不设置，这个时间会很长，程序会一直在等待数据的读取，而造成迟迟得不到结果。
+代码的分析暂时就不进行了，这是我在网页上找了很多版本中的一个的个人修改版，否则还是会在 ReadTimeout 上出现问。
 ``` csharp
 public static byte[] Read2Buffer(Stream stream, int BufferLen)
         {
