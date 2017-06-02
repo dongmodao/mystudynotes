@@ -12,8 +12,10 @@
 
 可以包含任意数据类型
 
+``` javascript
 var arr = [1, 2, 'hello', null, true];
 arr[0];
+```
 
 + 对象
 

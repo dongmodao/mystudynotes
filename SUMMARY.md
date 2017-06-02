@@ -38,6 +38,7 @@
   * [单元测试](python/dan-yuan-ce-shi.md)
 * [6. Javascript](javascript.md)
   * [初涉 javascript](javascript/chu-she-javascript.md)
+  * [浏览器对象](javascript/liu-lan-qi-dui-xiang.md)
 * [7. 随笔](sui-bi.md)
   * [能力越大，责任越大](sui-bi/neng-li-yue-da-ff0c-ze-ren-yue-da.md)
   * [什么促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
