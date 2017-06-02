@@ -57,3 +57,15 @@ names.set("dongmodao", 100);
 ```
 
 Set 和 Map 类似，也是一组 key 的集合，但不存储 value。由于 key 不能重复，所以，在 Set 中，没有重复的 key。
+
++ 函数
+
+参数可以不定义，因为在 javascript 中函数可以接受任意数量的参数。可以在内部使用 arguments[i] 来调用传入的任意参数。
+
+
+
+
+
+
+
+
