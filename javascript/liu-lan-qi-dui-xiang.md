@@ -29,6 +29,7 @@ location.reload()
 document.title
 document.getElementById()
 document.getElementsByTagName()
+document.getElementsByClassName()
 
 + history
 
