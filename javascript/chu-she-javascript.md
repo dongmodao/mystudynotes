@@ -27,3 +27,33 @@ arr[0];
 
 强制使用 ``var`` 进行声明。在javascript 代码第一行加入
 > 'use strict';
+
++ 字符串
+
+使用 ``${name}`` 可以把变量的值直接带入字符串当中。
+
+``` javascript
+var name = '小明';
+var age = 20;
+var message = `你好, ${name}, 你今年${age}岁了!`;
+```
+需要特别注意的是，字符串是不可变的，如果对字符串的某个索引赋值，不会有任何错误，但是，也没有任何效果。即使用 ``s[0] = 'A';`` 对 s 是没有影响的。
+
++ 字符串的 indexOf 与 substring
+``` javascript
+var s = 'hello, world';
+s.indexOf('world'); // 返回7
+s.indexOf('World'); // 没有找到指定的子串，返回-1
+s.substring(0, 5); // 从索引0开始到5（不包括5），返回'hello'
+s.substring(7); // 从索引7开始到结束，返回'world'
+```
+
++  Map 和 Set
+map 相当于字典。
+声明可以用二维数组 [[key, value],[key1,value1]]作为参数，也可以是无参构造，主要的方法有 .set(key, value), .delete(key)。
+``` javascript
+var names = new Map();
+names.set("dongmodao", 100);
+```
+
+Set 和 Map 类似，也是一组 key 的集合，但不存储 value。由于 key 不能重复，所以，在 Set 中，没有重复的 key。
