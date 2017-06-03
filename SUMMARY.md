@@ -39,6 +39,7 @@
 * [6. Javascript](javascript.md)
   * [初涉 javascript](javascript/chu-she-javascript.md)
   * [浏览器对象](javascript/liu-lan-qi-dui-xiang.md)
+  * [javascript 与 C\# 编程中遇到的坑](javascript/javascript-yu-c-bian-cheng-zhong-yu-dao-de-keng.md)
 * [7. 随笔](sui-bi.md)
   * [能力越大，责任越大](sui-bi/neng-li-yue-da-ff0c-ze-ren-yue-da.md)
   * [什么促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
