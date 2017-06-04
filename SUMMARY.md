@@ -45,4 +45,6 @@
   * [什么促使着](sui-bi/shi-yao-zai-cu-shi-zhao.md)
   * [年轻 · 记忆](sui-bi/nian-qing-3001-nian-lao-yu-ji-yi.md)
   * [个人博客被收录了！](sui-bi/ge-ren-bo-ke-bei-shou-lu-le-ff01.md)
+* [有因集](you-yin-ji.md)
+  * [源于某个账号](you-yin-ji/yuan-yu-mou-ge-zhang-hao.md)
 
