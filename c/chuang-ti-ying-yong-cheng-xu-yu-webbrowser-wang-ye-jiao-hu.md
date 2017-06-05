@@ -36,14 +36,14 @@ webBrowser.ObjectForScripting = this;
 	}
 ```
 
-使用了 external 关键字，调用外部的 GetLogLat() 方法，则当脚本得到运行时，则相当于调用了程序的 GetLogLat() 函数。
+使用了 ``external`` 关键字，调用外部的 ``GetLogLat()`` 方法，则当脚本得到运行时，则相当于调用了程序的 ``GetLogLat()`` 函数。
 
 ## 程序调用脚本的函数
 
-运行网页中已经存在的脚本 funtionName()：
+运行网页中已经存在的脚本 ``funtionName()``：
 
 ``` csharp
 wbsMap.Document.InvokeScript("funtionName", null);
 ```
 
-如果带参数，则在 null 的位置放入参数数组 object[].
+如果带参数，则在 ``null`` 的位置放入参数数组 object[].
