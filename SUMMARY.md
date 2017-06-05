@@ -48,5 +48,5 @@
   * [个人博客被收录了！](sui-bi/ge-ren-bo-ke-bei-shou-lu-le-ff01.md)
 * [有因集](you-yin-ji.md)
   * [源于某个账号](you-yin-ji/yuan-yu-mou-ge-zhang-hao.md)
-  * [感意](you-yin-ji/gan-yi.md)
+  * [感意而书](you-yin-ji/gan-yi.md)
 
