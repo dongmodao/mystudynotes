@@ -34,6 +34,7 @@
   * [不定长网络流的读取](c/bu-ding-chang-wang-luo-liu-de-du-qu.md)
   * [Unicode 编码转成中文](c/unicode-bian-ma-zhuan-cheng-zhong-wen.md)
   * [窗体应用程序与 WebBrowser 网页交互](c/chuang-ti-ying-yong-cheng-xu-yu-webbrowser-wang-ye-jiao-hu.md)
+  * [窗体与顺序](c/chuang-ti-yu-shun-xu.md)
 * [5. Python](python.md)
   * [Python 随笔](python/python-sui-bi.md)
   * [单元测试](python/dan-yuan-ce-shi.md)
