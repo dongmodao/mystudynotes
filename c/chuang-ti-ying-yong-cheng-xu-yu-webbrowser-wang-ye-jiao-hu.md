@@ -46,4 +46,4 @@ webBrowser.ObjectForScripting = this;
 wbsMap.Document.InvokeScript("funtionName", null);
 ```
 
-如果带参数，则在 ``null`` 的位置放入参数数组 object[].
+如果带参数，则在 ``null`` 的位置放入参数数组 ``object[]``.
