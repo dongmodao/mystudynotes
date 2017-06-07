@@ -19,7 +19,7 @@
     * [动态分配内存](chapter1/zhi-zhen/dong-tai-fen-pei-nei-cun.md)
     * [& 与 \*](chapter1/zhi-zhen/and-yu.md)
   * [类](chapter1/lei.md)
-    * [类的构造函数和析构函数](chapter1/lei/lei-de-gou-zao-han-shu-he-xi-gou-han-shu.md)
+    * [类的构造函数、析构函数、拷贝函数](chapter1/lei/lei-de-gou-zao-han-shu-he-xi-gou-han-shu.md)
     * [new 和 delete](chapter1/lei/new-he-delete.md)
     * [多态性与虚函数](chapter1/lei/duo-tai-xing-yu-xu-han-shu.md)
     * [类的指针调用](chapter1/lei/lei-de-zhi-zhen-diao-yong.md)
