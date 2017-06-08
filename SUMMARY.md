@@ -21,7 +21,7 @@
   * [类](chapter1/lei.md)
     * [类的构造函数、析构函数、拷贝函数](chapter1/lei/lei-de-gou-zao-han-shu-he-xi-gou-han-shu.md)
     * [new 和 delete](chapter1/lei/new-he-delete.md)
-    * [多态性与虚函数](chapter1/lei/duo-tai-xing-yu-xu-han-shu.md)
+    * [多态性、虚函数、抽象类](chapter1/lei/duo-tai-xing-yu-xu-han-shu.md)
     * [类的指针调用](chapter1/lei/lei-de-zhi-zhen-diao-yong.md)
   * [头文件](chapter1/tou-wen-jian.md)
   * [容器](chapter1/rong-qi.md)
