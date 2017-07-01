@@ -28,6 +28,7 @@
     * [vector](chapter1/rong-qi/vector.md)
     * [map](chapter1/rong-qi/map.md)
   * [曾经遇到的坑](chapter1/ceng-jing-yu-dao-de-keng.md)
+  * [VC debug 的特殊之处](chapter1/vc-debug-de-te-shu-zhi-chu.md)
 * [3. Java](java.md)
   * [回调机制](java/hui-diao-ji-zhi.md)
 * [4. C\#](c.md)
