@@ -14,6 +14,9 @@
   * [数据存储](android/shu-ju-cun-chu.md)
     * [文件存储](android/shu-ju-cun-chu/wen-jian-cun-chu.md)
     * [SharedPreferences 存储](android/shu-ju-cun-chu/sharedpreferences-cun-chu.md)
+    * [数据库存储](android/shu-ju-cun-chu/shu-ju-ku-cun-chu.md)
+      * [SQLiteDatabase](android/shu-ju-cun-chu/shu-ju-ku-cun-chu/sqlitedatabase.md)
+      * LitePal
 * [2. C++](chapter1.md)
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
   * [类型转换](chapter1/lei-xing-zhuan-huan.md)

@@ -31,6 +31,7 @@ openFileOutput() 方法返回一个 FileOutputStream 对象。接着就可以按
 ```
 
 学习使用的是郭神的《第一行代码》第六章。在这个过程中可能会遇到很多问题，一些问题可以参照[Android Device Monitor 文件管理的常见问题](http://www.jianshu.com/p/d8a9a2918c61)解决（在我自己遇到的问题里，亲测可用）。
+![](/assets/adbshellcmd.png)
 
 ### 读取方法
 
