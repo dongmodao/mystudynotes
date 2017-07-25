@@ -63,4 +63,6 @@
 * [有因集](you-yin-ji.md)
   * [源于某个账号](you-yin-ji/yuan-yu-mou-ge-zhang-hao.md)
   * [感意而书](you-yin-ji/gan-yi.md)
+* 基础知识
+  * [字符和编码](zi-fu-he-bian-ma.md)
 
