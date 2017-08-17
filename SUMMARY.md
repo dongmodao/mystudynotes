@@ -18,6 +18,7 @@
     * [数据库存储](android/shu-ju-cun-chu/shu-ju-ku-cun-chu.md)
       * [SQLiteDatabase](android/shu-ju-cun-chu/shu-ju-ku-cun-chu/sqlitedatabase.md)
       * LitePal
+  * [查看 SHA1 和 MD5](android/cha-kan-sha1.md)
 * [2. C++](chapter1.md)
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
   * [类型转换](chapter1/lei-xing-zhuan-huan.md)
