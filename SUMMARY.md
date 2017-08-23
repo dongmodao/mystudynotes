@@ -43,6 +43,8 @@
   * [曾经遇到的坑](chapter1/ceng-jing-yu-dao-de-keng.md)
   * [VC debug 的特殊之处](chapter1/vc-debug-de-te-shu-zhi-chu.md)
   * [Tips](chapter1/tips.md)
+  * [C 部分](chapter1/c.md)
+    * [开始](chapter1/c/kai-shi.md)
 * [3. Java](java.md)
   * [回调机制](java/hui-diao-ji-zhi.md)
 * [4. C\#](c.md)
