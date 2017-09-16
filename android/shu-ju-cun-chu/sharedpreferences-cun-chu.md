@@ -41,3 +41,9 @@
                 int age = pref.getInt("age", 0);
                 boolean married = pref.getBoolean("married", false);
 ```
+
+#### 本质
+
+存储过程：获取一个 SharedPreferences.Editor 对象（获取方式如上），使用该对象的``.putXxx``方法可加入不同类型的数据，使用``.apply()``方法提交即可。
+
+读取过程：获取一个 SharedPreferences 对象，使用``.getXxx``方法获取对应类型的数据即可。

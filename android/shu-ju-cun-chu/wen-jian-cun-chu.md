@@ -63,3 +63,11 @@ openFileOutput() 方法返回一个 FileOutputStream 对象。接着就可以按
         return content.toString();
     }
 ```
+
+#### 本质
+
+使用流方式存取数据到文件。需要使用到的不外乎以下：
+> FileOutputStream, BufferWriter  //将文本数据输出到文件
+> FileInputStream, BufferReader, StringBuilder  //将文件文本输入到 Buffer
+
+
