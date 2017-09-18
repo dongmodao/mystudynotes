@@ -8,7 +8,7 @@ LitePal 是一款开源的 Android 数据库框架，采用对象关系映射（
 
 1. 在依赖 dependencies 闭包中添加依赖。
    > compile 'org.litepal.android:core:1.6.0'
-2. 配置 app/src/main/asset/litepal.xml 文件。
+2. 配置 app/src/main/assets/litepal.xml 文件。
 
    > &lt;?xml version="1.0" encoding="utf-8"?&gt;  
    > &lt;litepal&gt;  
