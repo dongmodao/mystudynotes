@@ -73,5 +73,7 @@
 * 基础知识
   * [字符和编码](zi-fu-he-bian-ma.md)
 * [Linux](linux.md)
+  * [简单命令](linux/jian-dan-ming-ling.md)
+  * [一些可能遇到的问题](linux/yi-xie-ke-neng-yu-dao-de-wen-ti.md)
 * [VBA](vba.md)
 
