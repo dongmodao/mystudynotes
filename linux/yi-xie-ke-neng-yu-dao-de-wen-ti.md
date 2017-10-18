@@ -23,6 +23,7 @@
  附上一个 gedit 教程：[Ubuntu 入门操作指南](http://teliute.org/linux/TeUbt/lesson22/lesson22.html)
  
 6. 配置 java 环境变量
+ 
  使用上面的方法安装 jdk 之后还需要配置 java 环境变量才能在 shell 里面的任意正常使用 java。我自己在配置 java 环境变量的时候遇到了不少问题。
  + 在 eclipse 中正常运行而 shell 不能正常运行
   
@@ -35,7 +36,6 @@
  参考： [Ubuntu下开启ssh服务](https://hahaya.github.io/ubuntu-start-ssh-service/)
 
 8. vnc 服务
- 
  参考： [windows下通过VNC图形化访问Ubuntu桌面环境](http://blog.csdn.net/lanxuezaipiao/article/details/25552675) 和 [Windows下通过VNC远程连接Ubuntu 14.04桌面环境](https://my.oschina.net/junn/blog/401435)
  最终成功版本：[ubuntu14.04 配置VNC服务，亲测可用](http://blog.csdn.net/vbskj/article/details/52129757)
  
