@@ -37,4 +37,5 @@
 8. vnc 服务
  
  参考： [windows下通过VNC图形化访问Ubuntu桌面环境](http://blog.csdn.net/lanxuezaipiao/article/details/25552675) 和 [Windows下通过VNC远程连接Ubuntu 14.04桌面环境](https://my.oschina.net/junn/blog/401435)
+ 最终成功版本：[ubuntu14.04 配置VNC服务，亲测可用](http://blog.csdn.net/vbskj/article/details/52129757)
  
