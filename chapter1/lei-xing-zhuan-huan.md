@@ -23,3 +23,12 @@ string rst = temp.str();    //转换
 cout << rst << endl;
 }
 ```
+
+
+**注意：在 C 中**
+
+如果使用 atof() 函数，应该要添加
+``` c
+#include <stdlib.h>
+```
+否则得到的数据可能会出现问题。

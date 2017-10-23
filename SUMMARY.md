@@ -45,6 +45,7 @@
   * [Tips](chapter1/tips.md)
   * [C 部分](chapter1/c.md)
     * [开始](chapter1/c/kai-shi.md)
+    * [C 资料网站](chapter1/c/c-zi-liao-wang-zhan.md)
 * [3. Java](java.md)
   * [回调机制](java/hui-diao-ji-zhi.md)
 * [4. C\#](c.md)
