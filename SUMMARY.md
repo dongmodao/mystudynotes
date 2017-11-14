@@ -20,6 +20,7 @@
       * [LitePal](android/shu-ju-cun-chu/shu-ju-ku-cun-chu/litepal.md)
   * [查看 SHA1 和 MD5](android/cha-kan-sha1.md)
   * [项目相关文件存放](android/xiang-mu-xiang-guan-wen-jian-cun-fang.md)
+  * [小技巧](android/xiao-ji-qiao.md)
 * [2. C++](chapter1.md)
   * [C++ 文件操作](chapter1/c++-wen-jian-cao-zuo.md)
   * [类型转换](chapter1/lei-xing-zhuan-huan.md)
