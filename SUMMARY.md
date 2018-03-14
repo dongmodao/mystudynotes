@@ -49,6 +49,8 @@
     * [C 资料网站](chapter1/c/c-zi-liao-wang-zhan.md)
 * [3. Java](java.md)
   * [回调机制](java/hui-diao-ji-zhi.md)
+  * [教程](java/jiao-cheng.md)
+    * [1.Java 基础](java/jiao-cheng/1java-ji-chu.md)
 * [4. C\#](c.md)
   * [委托与时间](c/wei-tuo-yu-shi-jian.md)
   * [不定长网络流的读取](c/bu-ding-chang-wang-luo-liu-de-du-qu.md)
