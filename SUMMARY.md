@@ -85,4 +85,5 @@
 * [略有涉猎](lve-you-she-xi.md)
   * [bat 简单使用](lve-you-she-xi/bat-jian-dan-shi-yong.md)
   * [远程连接mysql数据库](lve-you-she-xi/yuan-cheng-lian-jie-mysql-shu-ju-ku.md)
+  * [Echarts 的使用](lve-you-she-xi/echarts-de-shi-yong.md)
 
