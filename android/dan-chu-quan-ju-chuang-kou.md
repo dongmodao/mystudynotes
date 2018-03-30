@@ -13,7 +13,9 @@
     alertDialog.show();
   ```
   就可以正确在任意界面中显示窗口了。权限 ``SYSTEM_ALERT_WINDOW`` 在比较高的版本已经不适用了。选择什么样的参数，和 API 版本有关。
+  <center>
   <img src="/assets/shotcut1.png" heigth="480" width="270" align = center/>
+  </center>
 
 2. 使用 WindowManager 添加和移除
 
@@ -57,8 +59,9 @@
 
  </android.support.constraint.ConstraintLayout>
   ```
+  
+  <center>
   <img src="/assets/shotcut.png" heigth="480" width="270" align = center/>
+  </center>
   
   参考[android 全局对话框（不依赖具体activity）](https://blog.csdn.net/lxlmycsdnfree/article/details/73796543)，[Android: Unable to add window. Permission denied for this window type](https://stackoverflow.com/questions/32224452/android-unable-to-add-window-permission-denied-for-this-window-type)。
-
-<center> --- end --- </center>
