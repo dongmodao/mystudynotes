@@ -65,6 +65,7 @@
   * [单元测试](python/dan-yuan-ce-shi.md)
   * [爬虫](python/pa-chong.md)
     * [防盗链](python/pa-chong/fang-dao-lian.md)
+  * [时间转换](python/shi-jian-zhuan-huan.md)
 * [6. Javascript](javascript.md)
   * [初涉 javascript](javascript/chu-she-javascript.md)
   * [浏览器对象](javascript/liu-lan-qi-dui-xiang.md)
