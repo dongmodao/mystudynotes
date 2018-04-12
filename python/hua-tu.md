@@ -7,11 +7,11 @@
 ### Matplotlib
 简单来说，Matplotlib 是 Python 的一个绘图库，基于 numpy 包。它包含了大量的工具，你可以使用这些工具创建各种图形，包括简单的散点图，正弦曲线，甚至是三维图形。Python 科学计算社区经常使用它完成数据可视化的工作。[Matplotlib 官网](https://matplotlib.org/)。
 
-最简单是示例：
+最简单的示例：
 
 ``` python
 import networkx as nx
-import pylab 
+import pylab
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -19,12 +19,27 @@ G = nx.DiGraph()									# 新建有向图
 G.add_nodes_from('012')								# 添加顶点
 G.add_edges_from([('0','1'),('0','2'),('1','2')])	# 添加边
 nx.draw(G)											# 生成图
-# ![](/assets/Figure_1.png)nx.draw(G,with_labels=True)							# 带标签
+nx.draw(G,with_labels=True)							# 带标签
 # pylab.show()										# 画图
 plt.show()
 ```
 
 ![](/assets/Figure_1.png)
+
+另外的示例：
+
+``` python
+import networkx as nx
+import numpy as np
+import matplotlib.pyplot as plt
+
+mat = np.array([[0,1,1],[1,0,0],[0,1,0]])
+G = nx.from_numpy_matrix(mat, create_using=nx.DiGraph())
+nx.draw(G, with_labels=True)                         # 带标签
+plt.show()
+
+```
+![](/assets/Figure_1-1.png)
 
 
 参考：
