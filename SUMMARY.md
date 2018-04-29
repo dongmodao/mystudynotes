@@ -85,6 +85,7 @@
 * [Linux](linux.md)
   * [简单命令](linux/jian-dan-ming-ling.md)
   * [一些可能遇到的问题](linux/yi-xie-ke-neng-yu-dao-de-wen-ti.md)
+  * [centos 7 修改密码](linux/centos-7.md)
 * [VBA](vba.md)
 * [略有涉猎](lve-you-she-xi.md)
   * [bat 简单使用](lve-you-she-xi/bat-jian-dan-shi-yong.md)
