@@ -36,6 +36,6 @@ python 中使用可变参数的函数有以下方法：
 db_con = pymysql.connect(**db_conf) 
  ```
 参考：
-[Python 优雅的使用参数 - 可变参数（\*args & \**kwargs)](1)
+[Python 优雅的使用参数 - 可变参数（\*args & \**kwargs)][1]
 
 [1]: https://n3xtchen.github.io/n3xtchen/python/2014/08/08/python-args-and-kwargs
