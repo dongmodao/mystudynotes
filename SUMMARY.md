@@ -55,6 +55,7 @@
     * [1.1 Java 基础语法](java/jiao-cheng/11-java.md)
   * [泛型、反射、注解](java/fan-xing.md)
   * [字符串转成Unicode](java/zi-fu-chuan-zhuan-cheng-unicode.md)
+  * Java JNI 编程
 * [4. C\#](c.md)
   * [委托与时间](c/wei-tuo-yu-shi-jian.md)
   * [不定长网络流的读取](c/bu-ding-chang-wang-luo-liu-de-du-qu.md)
